@@ -183,7 +183,7 @@ export const projects = [
     tags: ["React Js", "MongoDB", "Node Js", "Express Js", "Redux", "JWT","Cloudinary"],
     category: "web app",
     github:
-      "https://github.com/ishanaryan1602/Real-State-App?tab=readme-ov-file",
-    link: "https://real-state-app-dy3k.onrender.com/",
+      "https://github.com/ishanaryan1602/Threads-Clone",
+    link: "https://threads-clone-nqdm.onrender.com/",
   },
 ];
