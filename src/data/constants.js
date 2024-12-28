@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishanaryan1602/ishanaryan1602",
   resume: "https://drive.google.com/file/d/1YY-zF-him7K9Mi1tkV_XVjpY4C6md-eU/view?pli=1",
-  linkedin: "https://www.linkedin.com/in/ishan-aryan-401029269/",
+  linkedin: "https://www.linkedin.com/in/ishanaryan-webdeveloper/",
 };
 
 export const skills = [
