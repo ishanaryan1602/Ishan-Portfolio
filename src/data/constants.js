@@ -118,6 +118,13 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    role: "Web Developer Intern",
+    company: "RITES LTD.",
+    date: "June 2024 - November 2024",
+    desc: "Developed and optimized web applications using React.js, Node.js, and Redux for efficient performance and scalability. Built responsive UIs with Bootstrap, Tailwind CSS, and Chakra-UI. Contributed to backend functionality with Express and MongoDB, integrated JWT authentication, and collaborated using Git and Postman.",
+  },
+  {
+    id: 1,
     img: "https://uploads-ssl.webflow.com/5a827a4525c8bc00017d1bad/5a827b2032f0d300017eaf9d_inficonn.jpg",
     role: "Frontend Engineer Intern",
     company: "Infoicon",
@@ -134,13 +141,7 @@ export const experiences = [
     // ],
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
-  {
-    id: 1,
-    role: "Web Developer Intern",
-    company: "RITES LTD.",
-    date: "June 2024 - November 2024",
-    desc: "Developed and optimized web applications using React.js, Node.js, and Redux for efficient performance and scalability. Built responsive UIs with Bootstrap, Tailwind CSS, and Chakra-UI. Contributed to backend functionality with Express and MongoDB, integrated JWT authentication, and collaborated using Git and Postman.",
-  },
+  
 ];
 
 export const education = [
