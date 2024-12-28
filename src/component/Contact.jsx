@@ -39,7 +39,7 @@ const Contact = () => {
         Mail : &nbsp;<LinkBtn href="mailto:ishanaryan1602@gmail.com" target="_blank">ishanaryan1602@gmail.com</LinkBtn>
       </Description>
       <Description>
-        Linkedin : &nbsp;<LinkBtn href="mailto:https://www.linkedin.com/in/ishan-aryan-401029269/" target="_blank" >Ishan Aryan</LinkBtn>
+        Linkedin : &nbsp;<LinkBtn href="https://www.linkedin.com/in/ishanaryan-webdeveloper/" target="_blank" >Ishan Aryan</LinkBtn>
       </Description>
     </Div>
   );
