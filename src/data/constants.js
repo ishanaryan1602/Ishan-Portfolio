@@ -145,15 +145,7 @@ export const experiences = [
 ];
 
 export const education = [
-  {
-    id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEIvwStKQDXzmnfBrUj-Nq_REGMDLx3giMg&s",
-    school: "Amity Internation School , Vasundhra Sector-1",
-    date: "2013-2020",
-    grade: "84%",
-    desc: "I completed my schooling from Amity International School, where I studied Physics, Chemistry, and Mathematics (PCM). During my time there, I developed a strong foundation in analytical thinking, problem-solving, and logical reasoning, which later became essential in my pursuit of a degree in Computer Science and Engineering. In addition to excelling academically, I actively participated in various extracurricular activities, including science fairs and coding workshops, which helped nurture my interest in technology and innovation. My experience at Amity International School played a pivotal role in shaping my academic and career aspirations.",
-    // degree: "ISC(XII), Science with Computer",
-  },
+  
   {
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyYOZllJlZZM8VeKPrGcCWtjc6nBW1sg5mQ&s",
@@ -162,6 +154,15 @@ export const education = [
     grade: "8.45 CGPA",
     desc: "I completed my Bachelor of Technology (B.Tech) in Computer Science and Engineering from SRM University, Modinagar, with a CGPA of 8.45. My academic experience included core subjects like Data Structures, Algorithms, Object-Oriented Programming, and Database Management Systems. A key focus of my learning has been mastering the MERN stack, where I developed a full-stack web application using MongoDB, Express, React, and Node.js. This project allowed me to gain hands-on experience in building efficient, scalable, and dynamic applications, showcasing my ability to create seamless user experiences and efficient back-end systems.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+  },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEIvwStKQDXzmnfBrUj-Nq_REGMDLx3giMg&s",
+    school: "Amity Internation School , Vasundhra Sector-1",
+    date: "2013-2020",
+    grade: "84%",
+    desc: "I completed my schooling from Amity International School, where I studied Physics, Chemistry, and Mathematics (PCM). During my time there, I developed a strong foundation in analytical thinking, problem-solving, and logical reasoning, which later became essential in my pursuit of a degree in Computer Science and Engineering. In addition to excelling academically, I actively participated in various extracurricular activities, including science fairs and coding workshops, which helped nurture my interest in technology and innovation. My experience at Amity International School played a pivotal role in shaping my academic and career aspirations.",
+    // degree: "ISC(XII), Science with Computer",
   },
 ];
 
